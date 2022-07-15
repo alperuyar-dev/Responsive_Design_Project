@@ -1,1 +1,1 @@
-That's my first responsive design that ı made
+That's my first responsive design ı made
