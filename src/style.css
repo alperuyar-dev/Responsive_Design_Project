@@ -143,7 +143,7 @@ div {
         height: 30rem;
         background-size: cover;
         background-position-y: -50px;
-        background-image: url("/src/img/madison-oren-uupKmo6Yifs-unsplash.jpg");
+        background-image: url("./img/madison-oren-uupKmo6Yifs-unsplash.jpg");
     }
 
     .hero_section article {
